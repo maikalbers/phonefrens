@@ -1,0 +1,8 @@
+{
+  "_anleitung": "Diese Datei steuert Limited-Drops. Einen Drop starten = Eintrag in 'drops' ergänzen + committen. Wirkt sofort in allen Apps (beim nächsten App-Start/Fokus). 'id' = furnitureID aus dem Shop. Zeiten in ISO-Format: entweder UTC mit 'Z' hinten, ODER deutsche Zeit mit '+01:00' (Winter) / '+02:00' (Sommer). Felder mit _ am Anfang liest die App nicht - reine Doku.",
+  "_beispiel": [
+    { "id": "gold_couch", "from": "2026-12-01T00:00:00+01:00", "until": "2026-12-31T23:59:59+01:00" },
+    { "id": "pumpkin_lamp", "from": "2026-10-01T00:00:00+02:00", "until": "2026-11-01T00:00:00+01:00" }
+  ],
+  "drops": []
+}
