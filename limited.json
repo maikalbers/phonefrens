@@ -1,6 +1,7 @@
 {
   "drops": [
-    { "id": "goldplastik", "from": "2026-08-16T11:24:00Z", "until": "2026-08-30T11:24:00Z" },
-    { "id": "fan_zero_yellow_0 (1)", "from": "2026-08-16T11:25:33Z", "until": "2026-08-23T11:25:33Z" }
+    { "id": "goldplastik", "from": "2026-08-31T11:29:00Z", "until": "2026-09-30T11:29:00Z" },
+    { "id": "fan_zero_yellow_0 (1)", "from": "2025-08-31T11:29:00Z", "until": "2025-09-30T11:29:00Z" },
+    { "id": "winkekatze_samt_green_0", "from": "2026-08-31T11:29:47Z", "until": "2026-09-07T11:29:47Z" }
   ]
 }
